@@ -6,8 +6,8 @@ Faculty of Engineering
 Data Structures 2
 Due: 25 May, 2022
 
-                                                                            Lab  
-                                                                      B Tree and Indexing
+                                                                     Lab  
+                                                               B Tree and Indexing
 1- Overview
    In this assignment, you’re required to implement a B-tree and a simple search engine application that utilizes the B-Tree for data indexing.
 2- Introduction
